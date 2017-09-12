@@ -3,9 +3,9 @@ Jason Elting
 blue 
 
 
-#taco town taco
+# taco town taco
 
-INGREDIENTS
+## INGREDIENTS
 
 2 large eggs
 
@@ -105,7 +105,7 @@ INGREDIENTS
 
 8 cans vegetarian chili, heated
 
-Method
+## Method
 
 Makes 1 gigantic deep-fried taco
 
